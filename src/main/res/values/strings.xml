@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginTSF</string>
+    <string name="facebook_app_id">442977416479964</string>
+    <string name="fb_login_protocol_scheme">fb442977416479964</string>
+    <string name="signout">Signout</string>
+    <string name="profile_picture">Profile Picture:</string>
+    <string name="delete_account_from_firebase">Delete account</string>
+
+</resources>

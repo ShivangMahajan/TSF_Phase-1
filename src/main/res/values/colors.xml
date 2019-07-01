@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#11A15D</color>
+    <color name="colorPrimaryDark">#0c874d</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="signOut">#02733d</color>
+    <color name="background_color">#2f404d</color>
+    <color name="white_color">#FFFFFF</color>
+</resources>
